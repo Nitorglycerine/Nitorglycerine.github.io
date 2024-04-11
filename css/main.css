@@ -1,0 +1,85 @@
+/*couleur liens*/
+a:link {
+    color: gold;
+}
+
+ul {
+    color: gold;
+
+}
+
+
+a:visited {
+    color: gold;
+}
+
+a:hover {
+    color: goldenrod
+}
+
+/*général*/
+* {
+    margin: 0px;
+    vertical-align: middle;
+}
+
+body {
+    background-color: #444;
+
+}
+
+p {
+    font-size: 20px;
+    color: whitesmoke;
+    margin-top: 2%;
+    margin-left: 5%;
+
+}
+
+h1 {
+    text-align: center;
+    color: gold;
+    padding-top: 5%;
+}
+
+footer {
+    color: goldenrod;
+    text-align: center;
+    height: 75px;
+    background-color: #111;
+}
+
+/*div*/
+.présentation {
+    text-align: left;
+    color: whitesmoke;
+    font-size: 20px;
+    display: flex;
+}
+
+.présentation>img {
+    width: 30%;
+    margin-left: 10%;
+}
+
+.présentation>p {
+    margin-top: 10%;
+    margin-left: 20%;
+}
+
+.qui_suis_je {
+    color: whitesmoke;
+    display: block;
+    text-align: justify;
+    width: 600px;
+    margin: 100px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+/*images*/
+*>img {
+    margin-top: 0px;
+    width: 100px;
+    display: inline;
+}

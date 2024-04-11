@@ -1,0 +1,26 @@
+h1 {
+    margin: 5%;
+}
+
+#projetNameLeft {
+    margin-left: 15%;
+}
+#projetDescLeft {
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 2%;    
+    text-align: justify;
+
+}
+
+#projetNameRight {
+    text-align: right;
+    margin-right: 15%;
+}
+
+#projetDescRight {
+    margin-top: 2%;
+    margin-left: 20%;
+    margin-right: 10%;
+    text-align: justify;
+}
